@@ -304,6 +304,7 @@ namespace LAB1
             else
             {
                 MessageBox.Show("***Error, introduza un valor***");
+
             }
         }
     }
